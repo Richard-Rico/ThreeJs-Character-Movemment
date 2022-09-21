@@ -2,7 +2,7 @@
 
 ## Description ⛰
 
-This repository contains a character movement created in Threejs library, also i used Blender for the character and animations (.fbx) was downloaded from Mixamo.  
+This repository contains a character movement created in Threejs library, also i used Blender for the character and animations (.fbx) was downloaded from Mixamo. You can use to control the character the keys WASD, SHIFT for run and SPACE for Jump 
 
 ![Capture](https://user-images.githubusercontent.com/104793974/191455543-af1b1b35-7063-4033-b8b9-5590decc0b76.JPG)
 
