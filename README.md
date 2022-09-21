@@ -22,4 +22,4 @@ This repository contains a character movement created in Threejs library, also i
 
 ## How to see this project? 🔎
 
-This project you can opened here [ThreeJs Character movement](https://www.luna-mama.com/)
+This project you can opened here [ThreeJs Character movement](https://richard-rico.github.io.ThreeJs-Character-Movemment/index.html)
